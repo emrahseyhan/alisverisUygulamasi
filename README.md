@@ -1,5 +1,5 @@
 # flutter_application_5
 
-I used here liquid swipe widget, created 12 horoscope .
+I create an easy grocer app list.
 
 ![Octocat](https://github.com/emrahseyhan/alisverisUygulamasi/blob/main/ss/alss1.PNG)
